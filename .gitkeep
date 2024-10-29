@@ -1,9 +1,0 @@
-./configs
-./data/input
-./data/output
-./features
-./features/importances
-./logs
-./models
-./notebooks
-./utils
